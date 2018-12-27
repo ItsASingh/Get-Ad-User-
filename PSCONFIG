@@ -1,0 +1,3 @@
+PSCONFIG.EXE -cmd upgrade -inplace b2b -wait -force
+
+https://sharepointadminwiki.wordpress.com/tag/psconfig-exe-cmd-upgrade-inplace-b2b-wait-force/
