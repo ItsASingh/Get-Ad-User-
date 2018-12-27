@@ -1,0 +1,3 @@
+Get-ADGroupMember -Identity Administrators
+
+Get-ADUser -Filter *
